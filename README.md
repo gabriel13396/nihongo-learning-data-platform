@@ -177,20 +177,6 @@ AZURE_STORAGE_CONTAINER_SILVER="silver"
 AZURE_STORAGE_CONTAINER_GOLD="gold"
 ```
 
-Upload local pipeline outputs to Azure Blob Storage:
-
-```bash
-python scripts/upload_to_azure_blob.py
-```
-
-## Resume bullet
-
-Built a personal Azure-style data engineering platform for Japanese study analytics using Python, Parquet, SQLite, Azure Blob Storage, data quality checks, and GitHub Actions CI to transform raw learning logs into analytics-ready KPI marts.
-
-## Interview pitch
-
-I wanted a project that was more personal than a generic Kaggle pipeline, so I built a data platform around my Japanese learning workflow. It ingests synthetic Anki-style reviews, reading logs, listening sessions, grammar drills, and tutor sessions, then processes them through bronze, silver, and gold layers. I added validation checks, Parquet outputs, a SQLite analytics warehouse, GitHub Actions tests, and optional Azure Blob Storage sync. The project shows how I think about practical pipeline structure, data quality, and analytics modeling.
-
 ## Future improvements
 
 - Add real Anki export ingestion
