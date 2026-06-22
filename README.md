@@ -146,36 +146,6 @@ LIMIT 1;
 
 More queries are in `reports/sample_queries.sql`.
 
-## Optional Azure setup
-
-This project can run fully locally. Azure is optional.
-
-To create a storage account and four containers using Bicep:
-
-```bash
-az login
-az group create --name rg-nihongo-learning-dev --location eastus
-az deployment group create \
-  --resource-group rg-nihongo-learning-dev \
-  --template-file infra/main.bicep \
-  --parameters storageAccountName=<globally_unique_storage_name>
-```
-
-Create a `.env` file:
-
-```bash
-cp .env.example .env
-```
-
-Add your connection string:
-
-```text
-AZURE_STORAGE_CONNECTION_STRING="<your_connection_string>"
-AZURE_STORAGE_CONTAINER_RAW="raw"
-AZURE_STORAGE_CONTAINER_BRONZE="bronze"
-AZURE_STORAGE_CONTAINER_SILVER="silver"
-AZURE_STORAGE_CONTAINER_GOLD="gold"
-```
 
 ## Future improvements
 
