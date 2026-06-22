@@ -1,0 +1,83 @@
+reading_id,reading_date,title,pages_read,unknown_words_logged,perceived_difficulty
+1,2026-01-01,Japanese Short Stories,10,13,easy
+2,2026-01-02,Convenience Store Woman,7,23,easy
+3,2026-01-03,Your Name,14,15,medium
+4,2026-01-05,NHK Easy Articles,6,6,hard
+5,2026-01-06,Bookworm Light Novel,8,17,easy
+6,2026-01-07,Convenience Store Woman,22,68,medium
+7,2026-01-08,Convenience Store Woman,12,41,medium
+8,2026-01-10,Your Name,3,9,easy
+9,2026-01-13,Japanese Short Stories,12,48,hard
+10,2026-01-14,NHK Easy Articles,9,36,hard
+11,2026-01-15,Bookworm Light Novel,11,33,hard
+12,2026-01-18,NHK Easy Articles,17,30,easy
+13,2026-01-20,Convenience Store Woman,9,14,hard
+14,2026-01-21,Your Name,9,14,hard
+15,2026-01-22,NHK Easy Articles,12,45,hard
+16,2026-01-23,Convenience Store Woman,28,9,medium
+17,2026-01-24,NHK Easy Articles,27,59,easy
+18,2026-01-25,NHK Easy Articles,15,16,medium
+19,2026-01-26,NHK Easy Articles,13,36,hard
+20,2026-01-29,Japanese Short Stories,23,79,medium
+21,2026-01-31,Your Name,24,82,easy
+22,2026-02-02,NHK Easy Articles,14,16,easy
+23,2026-02-05,NHK Easy Articles,14,12,hard
+24,2026-02-06,NHK Easy Articles,21,21,easy
+25,2026-02-08,Japanese Short Stories,3,4,medium
+26,2026-02-09,Japanese Short Stories,24,69,medium
+27,2026-02-13,NHK Easy Articles,24,3,medium
+28,2026-02-14,Convenience Store Woman,27,82,easy
+29,2026-02-15,NHK Easy Articles,3,10,easy
+30,2026-02-18,NHK Easy Articles,19,47,easy
+31,2026-02-20,Your Name,28,91,hard
+32,2026-02-21,Japanese Short Stories,12,26,hard
+33,2026-02-24,NHK Easy Articles,13,28,hard
+34,2026-02-25,Bookworm Light Novel,20,68,hard
+35,2026-02-26,Your Name,18,47,easy
+36,2026-02-28,NHK Easy Articles,16,22,easy
+37,2026-03-01,Japanese Short Stories,20,44,hard
+38,2026-03-02,Japanese Short Stories,5,14,hard
+39,2026-03-03,Bookworm Light Novel,22,47,easy
+40,2026-03-04,Your Name,8,29,hard
+41,2026-03-06,NHK Easy Articles,12,10,easy
+42,2026-03-08,Bookworm Light Novel,26,47,hard
+43,2026-03-12,Your Name,8,28,medium
+44,2026-03-13,Bookworm Light Novel,7,8,medium
+45,2026-03-15,Japanese Short Stories,22,80,hard
+46,2026-03-16,Convenience Store Woman,13,42,medium
+47,2026-03-17,Bookworm Light Novel,25,48,hard
+48,2026-03-20,NHK Easy Articles,15,10,hard
+49,2026-03-21,Japanese Short Stories,21,51,medium
+50,2026-03-22,NHK Easy Articles,27,87,hard
+51,2026-03-24,NHK Easy Articles,3,10,hard
+52,2026-03-25,Your Name,6,3,easy
+53,2026-03-26,Japanese Short Stories,14,44,medium
+54,2026-03-27,Convenience Store Woman,18,25,easy
+55,2026-03-28,Japanese Short Stories,21,63,easy
+56,2026-03-29,NHK Easy Articles,7,16,hard
+57,2026-03-30,Your Name,18,20,easy
+58,2026-03-31,NHK Easy Articles,22,15,easy
+59,2026-04-02,Your Name,28,84,medium
+60,2026-04-03,Convenience Store Woman,14,16,easy
+61,2026-04-04,Convenience Store Woman,21,14,hard
+62,2026-04-05,Your Name,23,56,easy
+63,2026-04-06,NHK Easy Articles,8,27,medium
+64,2026-04-07,NHK Easy Articles,20,9,easy
+65,2026-04-08,Convenience Store Woman,22,22,hard
+66,2026-04-09,NHK Easy Articles,5,12,medium
+67,2026-04-11,Japanese Short Stories,16,37,easy
+68,2026-04-12,Your Name,22,19,easy
+69,2026-04-14,Bookworm Light Novel,23,72,hard
+70,2026-04-15,NHK Easy Articles,19,36,easy
+71,2026-04-16,Convenience Store Woman,28,102,easy
+72,2026-04-17,NHK Easy Articles,12,26,medium
+73,2026-04-20,NHK Easy Articles,28,13,medium
+74,2026-04-21,Japanese Short Stories,10,18,hard
+75,2026-04-22,Japanese Short Stories,16,21,medium
+76,2026-04-23,Your Name,28,39,medium
+77,2026-04-24,Bookworm Light Novel,19,51,medium
+78,2026-04-25,Bookworm Light Novel,14,18,hard
+79,2026-04-26,Bookworm Light Novel,24,43,medium
+80,2026-04-27,Japanese Short Stories,13,51,easy
+81,2026-04-28,Japanese Short Stories,19,20,medium
+82,2026-04-29,Japanese Short Stories,27,18,easy

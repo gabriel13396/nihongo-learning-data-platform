@@ -1,0 +1,24 @@
+tutor_session_id,session_date,minutes,conversation_topic,self_rating,new_phrases_learned
+1,2026-01-06,90,work and career,5,10
+2,2026-01-10,60,future Japan plans,5,9
+3,2026-01-17,60,travel stories,5,9
+4,2026-01-20,90,work and career,3,15
+5,2026-01-24,75,work and career,5,7
+6,2026-01-27,75,Japanese grammar,3,15
+7,2026-01-31,75,future Japan plans,5,10
+8,2026-02-03,60,Japanese grammar,5,15
+9,2026-02-14,90,anime and media,3,15
+10,2026-02-17,90,anime and media,5,15
+11,2026-03-03,60,anime and media,3,15
+12,2026-03-07,90,future Japan plans,3,16
+13,2026-03-14,60,future Japan plans,4,16
+14,2026-03-17,75,Japanese grammar,5,4
+15,2026-03-21,60,future Japan plans,4,16
+16,2026-03-24,75,travel stories,4,11
+17,2026-03-28,90,future Japan plans,3,6
+18,2026-03-31,60,Japanese grammar,3,13
+19,2026-04-04,60,travel stories,3,16
+20,2026-04-07,75,work and career,3,5
+21,2026-04-14,75,work and career,4,4
+22,2026-04-21,60,daily routine,4,6
+23,2026-04-28,60,work and career,3,17

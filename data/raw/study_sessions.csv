@@ -1,0 +1,344 @@
+session_id,session_date,skill,resource,minutes,focus_score
+1,2026-01-01,listening,Bunpro,104,0.95
+2,2026-01-01,speaking,Tutor Conversation,76,0.82
+3,2026-01-02,grammar,Anki,23,0.89
+4,2026-01-02,speaking,Anime Listening,47,0.71
+5,2026-01-02,vocab,Native Book,63,0.98
+6,2026-01-03,reading,Bunpro,69,0.73
+7,2026-01-03,vocab,Grammar Drill Notebook,73,0.94
+8,2026-01-04,vocab,Grammar Drill Notebook,71,0.91
+9,2026-01-04,listening,NHK Easy,50,0.87
+10,2026-01-05,vocab,Tutor Conversation,39,0.93
+11,2026-01-05,speaking,NHK Easy,40,0.75
+12,2026-01-05,reading,NHK Easy,42,0.66
+13,2026-01-06,grammar,Tutor Conversation,22,0.67
+14,2026-01-06,vocab,Anki,55,0.84
+15,2026-01-06,speaking,Grammar Drill Notebook,33,0.97
+16,2026-01-07,grammar,Native Book,51,0.79
+17,2026-01-07,reading,Tutor Conversation,45,0.77
+18,2026-01-07,listening,Tutor Conversation,74,0.71
+19,2026-01-07,speaking,Anime Listening,54,0.94
+20,2026-01-08,vocab,Grammar Drill Notebook,41,0.81
+21,2026-01-08,grammar,Grammar Drill Notebook,55,0.91
+22,2026-01-08,reading,Anki,28,0.84
+23,2026-01-08,listening,Native Book,72,0.66
+24,2026-01-09,grammar,Anki,40,0.74
+25,2026-01-09,speaking,Tutor Conversation,87,0.9
+26,2026-01-10,reading,Anki,65,0.88
+27,2026-01-10,grammar,Anki,41,0.73
+28,2026-01-10,speaking,Bunpro,79,0.79
+29,2026-01-11,speaking,NHK Easy,56,0.84
+30,2026-01-11,grammar,Anki,29,0.8
+31,2026-01-11,vocab,NHK Easy,59,0.65
+32,2026-01-12,speaking,NHK Easy,39,0.96
+33,2026-01-12,vocab,Native Book,73,0.89
+34,2026-01-12,reading,Grammar Drill Notebook,28,0.8
+35,2026-01-12,grammar,Native Book,21,0.79
+36,2026-01-13,grammar,Anki,54,0.65
+37,2026-01-13,listening,Anime Listening,100,0.74
+38,2026-01-14,listening,Native Book,110,0.81
+39,2026-01-14,grammar,NHK Easy,51,0.68
+40,2026-01-14,reading,Bunpro,35,0.75
+41,2026-01-15,listening,Tutor Conversation,105,0.7
+42,2026-01-15,reading,Bunpro,72,0.71
+43,2026-01-16,listening,Anime Listening,35,0.92
+44,2026-01-16,vocab,Grammar Drill Notebook,86,0.78
+45,2026-01-16,speaking,Bunpro,35,0.87
+46,2026-01-16,grammar,Anime Listening,28,0.72
+47,2026-01-17,vocab,Anki,44,0.93
+48,2026-01-17,speaking,NHK Easy,77,0.78
+49,2026-01-18,grammar,Anime Listening,42,0.68
+50,2026-01-18,vocab,Anki,42,0.79
+51,2026-01-19,reading,Anki,72,0.69
+52,2026-01-19,grammar,Bunpro,52,0.96
+53,2026-01-19,speaking,Tutor Conversation,41,0.94
+54,2026-01-19,listening,Anime Listening,100,0.74
+55,2026-01-20,speaking,Anki,87,0.9
+56,2026-01-20,grammar,Tutor Conversation,47,0.83
+57,2026-01-20,vocab,Grammar Drill Notebook,67,0.65
+58,2026-01-20,reading,NHK Easy,28,0.89
+59,2026-01-21,speaking,Tutor Conversation,60,0.86
+60,2026-01-21,grammar,Anime Listening,49,0.97
+61,2026-01-22,speaking,NHK Easy,61,0.82
+62,2026-01-22,reading,Tutor Conversation,35,0.69
+63,2026-01-22,vocab,NHK Easy,47,0.91
+64,2026-01-23,speaking,Anime Listening,43,0.82
+65,2026-01-23,listening,Tutor Conversation,66,0.66
+66,2026-01-24,speaking,Tutor Conversation,40,0.75
+67,2026-01-24,reading,Tutor Conversation,25,0.67
+68,2026-01-25,vocab,Anki,56,0.91
+69,2026-01-25,speaking,NHK Easy,30,0.77
+70,2026-01-25,grammar,Anime Listening,27,0.86
+71,2026-01-26,speaking,Bunpro,36,0.66
+72,2026-01-26,vocab,Anki,80,0.97
+73,2026-01-27,vocab,Grammar Drill Notebook,72,0.7
+74,2026-01-27,listening,Grammar Drill Notebook,109,0.78
+75,2026-01-27,reading,Anime Listening,62,0.8
+76,2026-01-28,vocab,Anki,78,0.77
+77,2026-01-28,reading,Grammar Drill Notebook,48,0.66
+78,2026-01-29,reading,Anime Listening,32,0.93
+79,2026-01-29,listening,Grammar Drill Notebook,47,0.67
+80,2026-01-30,grammar,Bunpro,47,0.97
+81,2026-01-30,speaking,NHK Easy,35,0.75
+82,2026-01-31,speaking,Grammar Drill Notebook,32,0.83
+83,2026-01-31,listening,Bunpro,67,0.91
+84,2026-01-31,reading,Native Book,59,0.94
+85,2026-02-01,reading,Grammar Drill Notebook,37,0.92
+86,2026-02-01,vocab,NHK Easy,50,0.9
+87,2026-02-02,speaking,Anime Listening,31,0.89
+88,2026-02-02,grammar,Anki,21,0.66
+89,2026-02-03,reading,Grammar Drill Notebook,57,0.81
+90,2026-02-03,grammar,Tutor Conversation,30,0.81
+91,2026-02-03,speaking,Native Book,42,0.82
+92,2026-02-04,reading,Bunpro,28,0.71
+93,2026-02-04,grammar,Anki,49,0.85
+94,2026-02-04,vocab,Native Book,72,0.67
+95,2026-02-05,listening,NHK Easy,30,0.94
+96,2026-02-05,vocab,Anime Listening,76,0.96
+97,2026-02-05,speaking,Native Book,86,0.83
+98,2026-02-05,reading,Grammar Drill Notebook,49,0.94
+99,2026-02-06,speaking,Bunpro,53,0.83
+100,2026-02-06,vocab,Anki,52,0.79
+101,2026-02-06,grammar,Bunpro,48,0.7
+102,2026-02-06,reading,Native Book,31,0.65
+103,2026-02-07,vocab,Anki,68,0.85
+104,2026-02-07,speaking,Anime Listening,88,0.98
+105,2026-02-08,listening,Native Book,83,0.95
+106,2026-02-08,reading,Anki,72,0.71
+107,2026-02-09,vocab,Anki,62,0.76
+108,2026-02-09,speaking,NHK Easy,70,0.75
+109,2026-02-10,speaking,Anime Listening,58,0.71
+110,2026-02-10,grammar,Anki,35,0.69
+111,2026-02-11,vocab,NHK Easy,85,0.68
+112,2026-02-11,listening,Anki,86,0.74
+113,2026-02-11,speaking,Bunpro,54,0.74
+114,2026-02-11,reading,Bunpro,63,0.93
+115,2026-02-12,speaking,Native Book,56,0.69
+116,2026-02-12,reading,Tutor Conversation,44,0.89
+117,2026-02-12,grammar,Native Book,27,0.8
+118,2026-02-12,vocab,Anime Listening,61,0.88
+119,2026-02-13,grammar,Tutor Conversation,39,0.76
+120,2026-02-13,listening,Anime Listening,81,0.71
+121,2026-02-13,speaking,NHK Easy,38,0.79
+122,2026-02-14,vocab,Bunpro,36,0.82
+123,2026-02-14,grammar,NHK Easy,55,0.83
+124,2026-02-14,listening,Bunpro,108,0.93
+125,2026-02-15,reading,Anime Listening,66,0.79
+126,2026-02-15,speaking,Native Book,53,0.77
+127,2026-02-15,grammar,Tutor Conversation,23,0.72
+128,2026-02-15,listening,Grammar Drill Notebook,120,0.84
+129,2026-02-16,reading,NHK Easy,66,0.68
+130,2026-02-16,grammar,Native Book,38,0.86
+131,2026-02-16,vocab,Anime Listening,37,0.91
+132,2026-02-16,speaking,Anki,68,0.79
+133,2026-02-17,speaking,Anki,33,0.81
+134,2026-02-17,listening,NHK Easy,81,0.94
+135,2026-02-17,reading,Grammar Drill Notebook,44,0.65
+136,2026-02-18,reading,Native Book,68,0.88
+137,2026-02-18,speaking,Bunpro,79,0.7
+138,2026-02-18,grammar,Anki,45,0.67
+139,2026-02-19,vocab,Tutor Conversation,87,0.65
+140,2026-02-19,grammar,Tutor Conversation,21,0.71
+141,2026-02-19,speaking,Grammar Drill Notebook,49,0.84
+142,2026-02-19,listening,Bunpro,115,0.95
+143,2026-02-20,vocab,Anki,53,0.98
+144,2026-02-20,listening,Anime Listening,95,0.94
+145,2026-02-20,speaking,Native Book,76,0.76
+146,2026-02-21,listening,Tutor Conversation,116,0.7
+147,2026-02-21,reading,Grammar Drill Notebook,58,0.93
+148,2026-02-21,vocab,NHK Easy,60,0.73
+149,2026-02-21,grammar,Tutor Conversation,49,0.75
+150,2026-02-22,reading,NHK Easy,62,0.8
+151,2026-02-22,speaking,NHK Easy,86,0.67
+152,2026-02-22,listening,NHK Easy,88,0.86
+153,2026-02-23,listening,Grammar Drill Notebook,67,0.65
+154,2026-02-23,grammar,Anki,24,0.85
+155,2026-02-23,vocab,Anime Listening,63,0.82
+156,2026-02-23,speaking,NHK Easy,54,0.74
+157,2026-02-24,reading,Native Book,47,0.97
+158,2026-02-24,speaking,Anime Listening,63,0.67
+159,2026-02-25,listening,Grammar Drill Notebook,41,0.92
+160,2026-02-25,grammar,Tutor Conversation,36,0.94
+161,2026-02-25,speaking,Bunpro,79,0.74
+162,2026-02-26,listening,Grammar Drill Notebook,118,0.66
+163,2026-02-26,vocab,NHK Easy,89,0.73
+164,2026-02-26,speaking,Tutor Conversation,45,0.96
+165,2026-02-27,listening,Anime Listening,118,0.7
+166,2026-02-27,vocab,Tutor Conversation,75,0.86
+167,2026-02-27,speaking,Tutor Conversation,50,0.74
+168,2026-02-28,speaking,Anki,84,0.8
+169,2026-02-28,reading,Native Book,48,0.96
+170,2026-02-28,grammar,Native Book,31,0.71
+171,2026-02-28,listening,Native Book,114,0.76
+172,2026-03-01,vocab,Native Book,73,0.66
+173,2026-03-01,grammar,Anime Listening,35,0.96
+174,2026-03-02,grammar,Grammar Drill Notebook,47,0.71
+175,2026-03-02,listening,Tutor Conversation,96,0.74
+176,2026-03-02,vocab,Bunpro,90,0.97
+177,2026-03-02,speaking,Bunpro,63,0.78
+178,2026-03-03,speaking,Anime Listening,50,0.89
+179,2026-03-03,vocab,Grammar Drill Notebook,55,0.91
+180,2026-03-04,vocab,NHK Easy,82,0.8
+181,2026-03-04,listening,Tutor Conversation,39,0.92
+182,2026-03-04,grammar,Anki,47,0.93
+183,2026-03-04,reading,Anki,48,0.91
+184,2026-03-05,vocab,Anime Listening,66,0.9
+185,2026-03-05,reading,Grammar Drill Notebook,58,0.65
+186,2026-03-06,reading,NHK Easy,57,0.91
+187,2026-03-06,listening,Bunpro,108,0.94
+188,2026-03-07,speaking,Grammar Drill Notebook,75,0.96
+189,2026-03-07,reading,Bunpro,43,0.71
+190,2026-03-07,vocab,Bunpro,67,0.68
+191,2026-03-07,grammar,Grammar Drill Notebook,36,0.72
+192,2026-03-08,reading,Grammar Drill Notebook,63,0.86
+193,2026-03-08,vocab,Grammar Drill Notebook,51,0.91
+194,2026-03-08,speaking,Tutor Conversation,72,0.75
+195,2026-03-08,listening,NHK Easy,113,0.74
+196,2026-03-09,speaking,NHK Easy,58,0.67
+197,2026-03-09,listening,Tutor Conversation,59,0.65
+198,2026-03-10,vocab,Anki,69,0.91
+199,2026-03-10,listening,Native Book,113,0.69
+200,2026-03-10,grammar,Tutor Conversation,26,0.92
+201,2026-03-10,speaking,Native Book,69,0.92
+202,2026-03-11,grammar,Anki,35,0.9
+203,2026-03-11,vocab,Native Book,35,0.77
+204,2026-03-11,speaking,NHK Easy,84,0.93
+205,2026-03-11,reading,Bunpro,50,0.89
+206,2026-03-12,grammar,Anime Listening,53,0.66
+207,2026-03-12,listening,Anki,49,0.85
+208,2026-03-12,vocab,Tutor Conversation,54,0.88
+209,2026-03-12,speaking,Native Book,83,0.96
+210,2026-03-13,reading,Grammar Drill Notebook,75,0.94
+211,2026-03-13,grammar,Native Book,20,0.88
+212,2026-03-13,vocab,Bunpro,39,0.67
+213,2026-03-14,vocab,Native Book,42,0.85
+214,2026-03-14,listening,Anime Listening,88,0.67
+215,2026-03-14,speaking,Anime Listening,58,0.79
+216,2026-03-14,reading,Native Book,31,0.66
+217,2026-03-15,vocab,Grammar Drill Notebook,87,0.96
+218,2026-03-15,grammar,Anime Listening,51,0.75
+219,2026-03-15,reading,Anime Listening,53,0.7
+220,2026-03-15,listening,Native Book,88,0.98
+221,2026-03-16,speaking,Grammar Drill Notebook,30,0.91
+222,2026-03-16,grammar,Tutor Conversation,24,0.73
+223,2026-03-16,vocab,Anki,87,0.92
+224,2026-03-16,reading,Grammar Drill Notebook,73,0.7
+225,2026-03-17,vocab,Anki,59,0.83
+226,2026-03-17,listening,Anime Listening,67,0.86
+227,2026-03-18,reading,Tutor Conversation,51,0.87
+228,2026-03-18,grammar,Anime Listening,26,0.78
+229,2026-03-19,grammar,Anki,24,0.82
+230,2026-03-19,vocab,Anime Listening,39,0.92
+231,2026-03-20,listening,Tutor Conversation,68,0.74
+232,2026-03-20,grammar,Tutor Conversation,54,0.68
+233,2026-03-21,speaking,NHK Easy,85,0.86
+234,2026-03-21,listening,Grammar Drill Notebook,117,0.93
+235,2026-03-22,vocab,Anime Listening,78,0.67
+236,2026-03-22,grammar,NHK Easy,25,0.79
+237,2026-03-23,vocab,Anki,78,0.79
+238,2026-03-23,speaking,Tutor Conversation,31,0.89
+239,2026-03-23,reading,NHK Easy,47,0.65
+240,2026-03-23,listening,NHK Easy,91,0.84
+241,2026-03-24,grammar,Anki,23,0.77
+242,2026-03-24,reading,Native Book,75,0.76
+243,2026-03-24,speaking,Bunpro,79,0.88
+244,2026-03-25,grammar,Grammar Drill Notebook,37,0.76
+245,2026-03-25,speaking,Anime Listening,34,0.84
+246,2026-03-25,reading,Bunpro,25,0.74
+247,2026-03-26,reading,Anime Listening,56,0.76
+248,2026-03-26,grammar,Bunpro,47,0.73
+249,2026-03-27,listening,Bunpro,62,0.68
+250,2026-03-27,speaking,Tutor Conversation,37,0.86
+251,2026-03-27,vocab,Anki,56,0.87
+252,2026-03-28,vocab,Bunpro,69,0.7
+253,2026-03-28,reading,Grammar Drill Notebook,55,0.72
+254,2026-03-28,listening,Bunpro,45,0.92
+255,2026-03-29,reading,NHK Easy,40,0.72
+256,2026-03-29,speaking,Native Book,50,0.7
+257,2026-03-30,grammar,NHK Easy,20,0.74
+258,2026-03-30,reading,Tutor Conversation,45,0.91
+259,2026-03-31,speaking,Anime Listening,40,0.78
+260,2026-03-31,listening,NHK Easy,74,0.71
+261,2026-04-01,grammar,Anime Listening,43,0.96
+262,2026-04-01,vocab,Anki,81,0.77
+263,2026-04-02,reading,Native Book,73,0.77
+264,2026-04-02,grammar,Grammar Drill Notebook,43,0.69
+265,2026-04-03,vocab,Tutor Conversation,88,0.9
+266,2026-04-03,reading,NHK Easy,69,0.79
+267,2026-04-03,grammar,Anime Listening,35,0.84
+268,2026-04-03,speaking,Grammar Drill Notebook,85,0.88
+269,2026-04-04,reading,Bunpro,60,0.87
+270,2026-04-04,speaking,Grammar Drill Notebook,81,0.76
+271,2026-04-04,listening,NHK Easy,76,0.81
+272,2026-04-05,listening,Bunpro,71,0.7
+273,2026-04-05,speaking,Native Book,79,0.92
+274,2026-04-05,reading,Bunpro,42,0.82
+275,2026-04-05,vocab,NHK Easy,63,0.79
+276,2026-04-06,speaking,Grammar Drill Notebook,72,0.82
+277,2026-04-06,listening,Native Book,49,0.7
+278,2026-04-07,vocab,Grammar Drill Notebook,66,0.68
+279,2026-04-07,listening,Anki,83,0.77
+280,2026-04-07,grammar,Bunpro,46,0.75
+281,2026-04-07,speaking,Tutor Conversation,69,0.67
+282,2026-04-08,listening,Anime Listening,99,0.94
+283,2026-04-08,reading,Anki,73,0.82
+284,2026-04-09,vocab,Bunpro,41,0.88
+285,2026-04-09,grammar,Anime Listening,52,0.86
+286,2026-04-10,listening,Bunpro,47,0.71
+287,2026-04-10,speaking,Grammar Drill Notebook,61,0.79
+288,2026-04-10,vocab,Anime Listening,90,0.68
+289,2026-04-11,listening,Grammar Drill Notebook,119,0.85
+290,2026-04-11,reading,Native Book,61,0.82
+291,2026-04-12,reading,Anime Listening,60,0.93
+292,2026-04-12,vocab,Anki,65,0.89
+293,2026-04-12,listening,Native Book,43,0.77
+294,2026-04-13,listening,Bunpro,117,0.67
+295,2026-04-13,grammar,Bunpro,21,0.88
+296,2026-04-13,vocab,Anime Listening,90,0.83
+297,2026-04-13,speaking,Grammar Drill Notebook,69,0.71
+298,2026-04-14,reading,Native Book,47,0.68
+299,2026-04-14,vocab,Anki,71,0.96
+300,2026-04-14,speaking,Tutor Conversation,78,0.67
+301,2026-04-14,grammar,Anime Listening,29,0.87
+302,2026-04-15,reading,Grammar Drill Notebook,36,0.68
+303,2026-04-15,grammar,Grammar Drill Notebook,24,0.74
+304,2026-04-16,vocab,Anki,64,0.86
+305,2026-04-16,reading,Native Book,48,0.89
+306,2026-04-16,grammar,Bunpro,42,0.97
+307,2026-04-16,speaking,Bunpro,75,0.79
+308,2026-04-17,vocab,Anki,88,0.81
+309,2026-04-17,speaking,NHK Easy,81,0.96
+310,2026-04-17,reading,Anime Listening,38,0.78
+311,2026-04-18,vocab,NHK Easy,53,0.93
+312,2026-04-18,reading,Tutor Conversation,61,0.73
+313,2026-04-19,reading,Tutor Conversation,67,0.72
+314,2026-04-19,grammar,Anime Listening,40,0.66
+315,2026-04-20,vocab,Tutor Conversation,41,0.66
+316,2026-04-20,listening,NHK Easy,85,0.69
+317,2026-04-21,listening,Grammar Drill Notebook,111,0.77
+318,2026-04-21,vocab,NHK Easy,80,0.74
+319,2026-04-21,grammar,Grammar Drill Notebook,52,0.86
+320,2026-04-21,speaking,Anki,40,0.68
+321,2026-04-22,vocab,Native Book,82,0.9
+322,2026-04-22,speaking,NHK Easy,88,0.84
+323,2026-04-22,reading,Tutor Conversation,49,0.91
+324,2026-04-23,grammar,NHK Easy,29,0.95
+325,2026-04-23,vocab,Native Book,75,0.83
+326,2026-04-23,reading,Bunpro,65,0.65
+327,2026-04-24,listening,NHK Easy,59,0.76
+328,2026-04-24,grammar,Tutor Conversation,38,0.75
+329,2026-04-25,grammar,Bunpro,38,0.67
+330,2026-04-25,vocab,Anki,53,0.97
+331,2026-04-26,vocab,Anime Listening,75,0.77
+332,2026-04-26,reading,Tutor Conversation,37,0.69
+333,2026-04-27,reading,Anime Listening,30,0.96
+334,2026-04-27,listening,Tutor Conversation,37,0.88
+335,2026-04-27,vocab,Grammar Drill Notebook,77,0.72
+336,2026-04-27,speaking,Anki,61,0.91
+337,2026-04-28,reading,Bunpro,35,0.87
+338,2026-04-28,speaking,Native Book,58,0.71
+339,2026-04-29,speaking,Tutor Conversation,61,0.74
+340,2026-04-29,vocab,Anime Listening,37,0.66
+341,2026-04-30,speaking,Grammar Drill Notebook,43,0.93
+342,2026-04-30,reading,Grammar Drill Notebook,50,0.95
+343,2026-04-30,listening,NHK Easy,50,0.97
